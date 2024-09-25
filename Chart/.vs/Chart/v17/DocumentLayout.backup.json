@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DoAnTotNghiep\\Financial\\Chart\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DBE1E0D-6FD0-4B4D-A39B-E6CEF52261E8}|Chart\\Chart.csproj|d:\\doantotnghiep\\financial\\chart\\chart\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3DBE1E0D-6FD0-4B4D-A39B-E6CEF52261E8}|Chart\\Chart.csproj|solutionrelative:chart\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DBE1E0D-6FD0-4B4D-A39B-E6CEF52261E8}|Chart\\Chart.csproj|d:\\doantotnghiep\\financial\\chart\\chart\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3DBE1E0D-6FD0-4B4D-A39B-E6CEF52261E8}|Chart\\Chart.csproj|solutionrelative:chart\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DBE1E0D-6FD0-4B4D-A39B-E6CEF52261E8}|Chart\\Chart.csproj|d:\\doantotnghiep\\financial\\chart\\chart\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3DBE1E0D-6FD0-4B4D-A39B-E6CEF52261E8}|Chart\\Chart.csproj|solutionrelative:chart\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DBE1E0D-6FD0-4B4D-A39B-E6CEF52261E8}|Chart\\Chart.csproj|d:\\doantotnghiep\\financial\\chart\\chart\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3DBE1E0D-6FD0-4B4D-A39B-E6CEF52261E8}|Chart\\Chart.csproj|solutionrelative:chart\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DBE1E0D-6FD0-4B4D-A39B-E6CEF52261E8}|Chart\\Chart.csproj|d:\\doantotnghiep\\financial\\chart\\chart\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3DBE1E0D-6FD0-4B4D-A39B-E6CEF52261E8}|Chart\\Chart.csproj|solutionrelative:chart\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DBE1E0D-6FD0-4B4D-A39B-E6CEF52261E8}|Chart\\Chart.csproj|d:\\doantotnghiep\\financial\\chart\\chart\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3DBE1E0D-6FD0-4B4D-A39B-E6CEF52261E8}|Chart\\Chart.csproj|solutionrelative:chart\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DBE1E0D-6FD0-4B4D-A39B-E6CEF52261E8}|Chart\\Chart.csproj|d:\\doantotnghiep\\financial\\chart\\chart\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3DBE1E0D-6FD0-4B4D-A39B-E6CEF52261E8}|Chart\\Chart.csproj|solutionrelative:chart\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DBE1E0D-6FD0-4B4D-A39B-E6CEF52261E8}|Chart\\Chart.csproj|d:\\doantotnghiep\\financial\\chart\\chart\\wwwroot\\css\\chart.css||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DBE1E0D-6FD0-4B4D-A39B-E6CEF52261E8}|Chart\\Chart.csproj|solutionrelative:chart\\wwwroot\\css\\chart.css||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DBE1E0D-6FD0-4B4D-A39B-E6CEF52261E8}|Chart\\Chart.csproj|d:\\doantotnghiep\\financial\\chart\\chart\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3DBE1E0D-6FD0-4B4D-A39B-E6CEF52261E8}|Chart\\Chart.csproj|solutionrelative:chart\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\DoAnTotNghiep\\Financial\\Chart\\Chart\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Chart\\appsettings.Development.json",
+              "ToolTip": "D:\\DoAnTotNghiep\\Financial\\Chart\\Chart\\appsettings.Development.json",
+              "RelativeToolTip": "Chart\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-25T11:17:33.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DoAnTotNghiep\\Financial\\Chart\\Chart\\appsettings.json",
+              "RelativeDocumentMoniker": "Chart\\appsettings.json",
+              "ToolTip": "D:\\DoAnTotNghiep\\Financial\\Chart\\Chart\\appsettings.json",
+              "RelativeToolTip": "Chart\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-25T11:17:26.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "chart.css",
+              "DocumentMoniker": "D:\\DoAnTotNghiep\\Financial\\Chart\\Chart\\wwwroot\\css\\chart.css",
+              "RelativeDocumentMoniker": "Chart\\wwwroot\\css\\chart.css",
+              "ToolTip": "D:\\DoAnTotNghiep\\Financial\\Chart\\Chart\\wwwroot\\css\\chart.css",
+              "RelativeToolTip": "Chart\\wwwroot\\css\\chart.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-21T06:26:02.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\DoAnTotNghiep\\Financial\\Chart\\Chart\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Chart\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\DoAnTotNghiep\\Financial\\Chart\\Chart\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Chart\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-21T06:06:52.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\DoAnTotNghiep\\Financial\\Chart\\Chart\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Chart\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\DoAnTotNghiep\\Financial\\Chart\\Chart\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Chart\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-21T05:48:51.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DoAnTotNghiep\\Financial\\Chart\\Chart\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Chart\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\DoAnTotNghiep\\Financial\\Chart\\Chart\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Chart\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-21T04:51:30.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\DoAnTotNghiep\\Financial\\Chart\\Chart\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Chart\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\DoAnTotNghiep\\Financial\\Chart\\Chart\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Chart\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-21T04:51:58.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\DoAnTotNghiep\\Financial\\Chart\\Chart\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Chart\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\DoAnTotNghiep\\Financial\\Chart\\Chart\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Chart\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-21T04:51:15.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\DoAnTotNghiep\\Financial\\Chart\\Chart\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Chart\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\DoAnTotNghiep\\Financial\\Chart\\Chart\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Chart\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-21T04:51:03.798Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
