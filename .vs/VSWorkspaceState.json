@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Chart",
+    "\\Chart\\Chart",
+    "\\Chart\\Chart\\bin",
+    "\\Chart\\Chart\\bin\\Debug",
+    "\\Chart\\Chart\\bin\\Release\\net8.0",
+    "\\Chart\\Chart\\obj\\Debug",
+    "\\Chart\\Chart\\wwwroot",
+    "\\Chart\\Chart\\wwwroot\\js",
+    "\\Chart\\Chart\\wwwroot\\lib"
+  ],
+  "SelectedNode": "\\Chart\\Chart.sln",
+  "PreviewInSolutionExplorer": false
+}

@@ -59,3 +59,37 @@ D:\DoAnTotNghiep\Financial\Chart\Chart\obj\Debug\net8.0\refint\Chart.dll
 D:\DoAnTotNghiep\Financial\Chart\Chart\obj\Debug\net8.0\Chart.pdb
 D:\DoAnTotNghiep\Financial\Chart\Chart\obj\Debug\net8.0\Chart.genruntimeconfig.cache
 D:\DoAnTotNghiep\Financial\Chart\Chart\obj\Debug\net8.0\ref\Chart.dll
+D:\Bai Tap C#\Financial_Web\Chart\Chart\bin\Debug\net8.0\appsettings.Development.json
+D:\Bai Tap C#\Financial_Web\Chart\Chart\bin\Debug\net8.0\appsettings.json
+D:\Bai Tap C#\Financial_Web\Chart\Chart\bin\Debug\net8.0\Chart.staticwebassets.runtime.json
+D:\Bai Tap C#\Financial_Web\Chart\Chart\bin\Debug\net8.0\Chart.exe
+D:\Bai Tap C#\Financial_Web\Chart\Chart\bin\Debug\net8.0\Chart.deps.json
+D:\Bai Tap C#\Financial_Web\Chart\Chart\bin\Debug\net8.0\Chart.runtimeconfig.json
+D:\Bai Tap C#\Financial_Web\Chart\Chart\bin\Debug\net8.0\Chart.dll
+D:\Bai Tap C#\Financial_Web\Chart\Chart\bin\Debug\net8.0\Chart.pdb
+D:\Bai Tap C#\Financial_Web\Chart\Chart\obj\Debug\net8.0\Chart.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bai Tap C#\Financial_Web\Chart\Chart\obj\Debug\net8.0\Chart.AssemblyInfoInputs.cache
+D:\Bai Tap C#\Financial_Web\Chart\Chart\obj\Debug\net8.0\Chart.AssemblyInfo.cs
+D:\Bai Tap C#\Financial_Web\Chart\Chart\obj\Debug\net8.0\Chart.csproj.CoreCompileInputs.cache
+D:\Bai Tap C#\Financial_Web\Chart\Chart\obj\Debug\net8.0\Chart.MvcApplicationPartsAssemblyInfo.cache
+D:\Bai Tap C#\Financial_Web\Chart\Chart\obj\Debug\net8.0\Chart.RazorAssemblyInfo.cache
+D:\Bai Tap C#\Financial_Web\Chart\Chart\obj\Debug\net8.0\Chart.RazorAssemblyInfo.cs
+D:\Bai Tap C#\Financial_Web\Chart\Chart\obj\Debug\net8.0\Chart.sourcelink.json
+D:\Bai Tap C#\Financial_Web\Chart\Chart\obj\Debug\net8.0\staticwebassets.build.json
+D:\Bai Tap C#\Financial_Web\Chart\Chart\obj\Debug\net8.0\staticwebassets.development.json
+D:\Bai Tap C#\Financial_Web\Chart\Chart\obj\Debug\net8.0\staticwebassets\msbuild.Chart.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Bai Tap C#\Financial_Web\Chart\Chart\obj\Debug\net8.0\staticwebassets\msbuild.build.Chart.props
+D:\Bai Tap C#\Financial_Web\Chart\Chart\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Chart.props
+D:\Bai Tap C#\Financial_Web\Chart\Chart\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Chart.props
+D:\Bai Tap C#\Financial_Web\Chart\Chart\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Bai Tap C#\Financial_Web\Chart\Chart\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Bai Tap C#\Financial_Web\Chart\Chart\obj\Debug\net8.0\scopedcss\bundle\Chart.styles.css
+D:\Bai Tap C#\Financial_Web\Chart\Chart\obj\Debug\net8.0\scopedcss\projectbundle\Chart.bundle.scp.css
+D:\Bai Tap C#\Financial_Web\Chart\Chart\obj\Debug\net8.0\Chart.dll
+D:\Bai Tap C#\Financial_Web\Chart\Chart\obj\Debug\net8.0\refint\Chart.dll
+D:\Bai Tap C#\Financial_Web\Chart\Chart\obj\Debug\net8.0\Chart.pdb
+D:\Bai Tap C#\Financial_Web\Chart\Chart\obj\Debug\net8.0\Chart.genruntimeconfig.cache
+D:\Bai Tap C#\Financial_Web\Chart\Chart\obj\Debug\net8.0\ref\Chart.dll
+D:\Bai Tap C#\Financial_Web\Chart\Chart\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Bai Tap C#\Financial_Web\Chart\Chart\obj\Debug\net8.0\Chart.csproj.AssemblyReference.cache
+D:\Bai Tap C#\Financial_Web\Chart\Chart\obj\Debug\net8.0\Chart.csproj.Up2Date

@@ -1,0 +1,29 @@
+﻿@{
+    Layout = "~/Views/Shared/_LayoutSing.cshtml"; // Đường dẫn đến trang layout chia sẻ
+    ViewBag.Title = "Register";
+}
+
+<h3 class="text-center mb-4">Register</h3>
+<form method="post" action="/Account/Register">
+    <div class="form-group">
+        <label for="fullname">Full Name</label>
+        <input type="text" class="form-control" id="fullname" name="fullname" placeholder="Enter your full name" required>
+    </div>
+    <div class="form-group">
+        <label for="email">Email</label>
+        <input type="email" class="form-control" id="email" name="email" placeholder="Enter your email" required>
+    </div>
+    <div class="form-group">
+        <label for="password">Password</label>
+        <input type="password" class="form-control" id="password" name="password" placeholder="Enter your password" required>
+    </div>
+    <div class="form-group">
+        <label for="confirmPassword">Confirm Password</label>
+        <input type="password" class="form-control" id="confirmPassword" name="confirmPassword" placeholder="Confirm your password" required>
+    </div>
+    <button type="submit" class="btn btn-primary btn-block">Register</button>
+    <div class="text-center mt-3">
+        <a href="/Account/Login" class="auth-link">Already have an account? Login</a>
+    </div>
+</form>
+

@@ -1,0 +1,32 @@
+﻿@model IEnumerable<Chart.Models.Course>
+
+@{
+    ViewData["Title"] = "Khóa Học";
+}
+
+<h1>Danh Sách Khóa Học</h1>
+
+<div class="container">
+    <div class="row">
+        @if (Model != null && Model.Any())
+        {
+            @foreach (var course in Model)
+            {
+                <div class="col-md-4">
+                    <div class="card mb-4">
+                        <img src="@Url.Content(course.image)" class="card-img-top" alt="@course.title" />
+                        <div class="card-body">
+                            <h5 class="card-title">@course.title</h5>
+                            <p class="card-text">@course.description</p>
+                            <a href="@Url.Action("Details", "Courses", new { id = course.idCourse })" class="btn btn-primary">Xem Chi Tiết</a>
+                        </div>
+                    </div>
+                </div>
+            }
+        }
+        else
+        {
+            <p>No courses available.</p>
+        }
+    </div>
+</div>

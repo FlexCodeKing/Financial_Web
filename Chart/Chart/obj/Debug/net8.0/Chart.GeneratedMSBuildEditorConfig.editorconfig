@@ -9,39 +9,59 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Chart
 build_property.RootNamespace = Chart
-build_property.ProjectDir = D:\DoAnTotNghiep\Financial\Chart\Chart\
+build_property.ProjectDir = D:\Bai Tap C#\Financial_Web\Chart\Chart\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\DoAnTotNghiep\Financial\Chart\Chart
+build_property.MSBuildProjectDirectory = D:\Bai Tap C#\Financial_Web\Chart\Chart
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/DoAnTotNghiep/Financial/Chart/Chart/Views/Home/Index.cshtml]
+[D:/Bai Tap C\#/Financial_Web/Chart/Chart/Views/Courses/Course.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlc1xDb3Vyc2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Bai Tap C\#/Financial_Web/Chart/Chart/Views/Courses/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Bai Tap C\#/Financial_Web/Chart/Chart/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DoAnTotNghiep/Financial/Chart/Chart/Views/Home/Privacy.cshtml]
+[D:/Bai Tap C\#/Financial_Web/Chart/Chart/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DoAnTotNghiep/Financial/Chart/Chart/Views/Shared/Error.cshtml]
+[D:/Bai Tap C\#/Financial_Web/Chart/Chart/Views/Login/Singin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cU2luZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Bai Tap C\#/Financial_Web/Chart/Chart/Views/Register/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0ZXJcUmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Bai Tap C\#/Financial_Web/Chart/Chart/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DoAnTotNghiep/Financial/Chart/Chart/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Bai Tap C\#/Financial_Web/Chart/Chart/Views/Shared/_LayoutSing.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRTaW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Bai Tap C\#/Financial_Web/Chart/Chart/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DoAnTotNghiep/Financial/Chart/Chart/Views/_ViewImports.cshtml]
+[D:/Bai Tap C\#/Financial_Web/Chart/Chart/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DoAnTotNghiep/Financial/Chart/Chart/Views/_ViewStart.cshtml]
+[D:/Bai Tap C\#/Financial_Web/Chart/Chart/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DoAnTotNghiep/Financial/Chart/Chart/Views/Shared/_Layout.cshtml]
+[D:/Bai Tap C\#/Financial_Web/Chart/Chart/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-s9hwy3zlwu

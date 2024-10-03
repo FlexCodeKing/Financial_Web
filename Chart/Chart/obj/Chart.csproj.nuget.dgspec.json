@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DoAnTotNghiep\\Financial\\Chart\\Chart\\Chart.csproj": {}
+    "D:\\Bai Tap C#\\Financial_Web\\Chart\\Chart\\Chart.csproj": {}
   },
   "projects": {
-    "D:\\DoAnTotNghiep\\Financial\\Chart\\Chart\\Chart.csproj": {
+    "D:\\Bai Tap C#\\Financial_Web\\Chart\\Chart\\Chart.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DoAnTotNghiep\\Financial\\Chart\\Chart\\Chart.csproj",
+        "projectUniqueName": "D:\\Bai Tap C#\\Financial_Web\\Chart\\Chart\\Chart.csproj",
         "projectName": "Chart",
-        "projectPath": "D:\\DoAnTotNghiep\\Financial\\Chart\\Chart\\Chart.csproj",
-        "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "D:\\DoAnTotNghiep\\Financial\\Chart\\Chart\\obj\\",
+        "projectPath": "D:\\Bai Tap C#\\Financial_Web\\Chart\\Chart\\Chart.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "D:\\Bai Tap C#\\Financial_Web\\Chart\\Chart\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -49,6 +45,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

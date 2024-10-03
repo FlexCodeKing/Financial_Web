@@ -1,0 +1,21 @@
+﻿@{
+    Layout = "~/Views/Shared/_LayoutSing.cshtml";
+    ViewBag.Title = "Login";
+}
+
+<h3 class="text-center mb-4">Login</h3>
+<form method="post" action="/Account/Login">
+    <div class="form-group">
+        <label for="email">Email</label>
+        <input type="email" class="form-control" id="email" name="email" placeholder="Enter your email" required>
+    </div>
+    <div class="form-group">
+        <label for="password">Password</label>
+        <input type="password" class="form-control" id="password" name="password" placeholder="Enter your password" required>
+    </div>
+    
+    <button type="submit" class="btn btn-primary btn-block">Login</button>
+    <div class="text-center mt-3">
+        <a href="" class="auth-link">Don't have an account? Register</a>
+    </div> 
+</form>
