@@ -3,16 +3,56 @@
   "WorkspaceRootPath": "D:\\Bai Tap C#\\Financial_Web\\Chart\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3DBE1E0D-6FD0-4B4D-A39B-E6CEF52261E8}|Chart\\Chart.csproj|d:\\bai tap c#\\financial_web\\chart\\chart\\views\\shared\\_layoutsing.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3DBE1E0D-6FD0-4B4D-A39B-E6CEF52261E8}|Chart\\Chart.csproj|solutionrelative:chart\\views\\shared\\_layoutsing.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3DBE1E0D-6FD0-4B4D-A39B-E6CEF52261E8}|Chart\\Chart.csproj|d:\\bai tap c#\\financial_web\\chart\\chart\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DBE1E0D-6FD0-4B4D-A39B-E6CEF52261E8}|Chart\\Chart.csproj|solutionrelative:chart\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DBE1E0D-6FD0-4B4D-A39B-E6CEF52261E8}|Chart\\Chart.csproj|d:\\bai tap c#\\financial_web\\chart\\chart\\views\\courses\\addcourse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3DBE1E0D-6FD0-4B4D-A39B-E6CEF52261E8}|Chart\\Chart.csproj|solutionrelative:chart\\views\\courses\\addcourse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DBE1E0D-6FD0-4B4D-A39B-E6CEF52261E8}|Chart\\Chart.csproj|d:\\bai tap c#\\financial_web\\chart\\chart\\views\\courses\\video.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3DBE1E0D-6FD0-4B4D-A39B-E6CEF52261E8}|Chart\\Chart.csproj|solutionrelative:chart\\views\\courses\\video.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3DBE1E0D-6FD0-4B4D-A39B-E6CEF52261E8}|Chart\\Chart.csproj|d:\\bai tap c#\\financial_web\\chart\\chart\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3DBE1E0D-6FD0-4B4D-A39B-E6CEF52261E8}|Chart\\Chart.csproj|solutionrelative:chart\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DBE1E0D-6FD0-4B4D-A39B-E6CEF52261E8}|Chart\\Chart.csproj|d:\\bai tap c#\\financial_web\\chart\\chart\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DBE1E0D-6FD0-4B4D-A39B-E6CEF52261E8}|Chart\\Chart.csproj|solutionrelative:chart\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3DBE1E0D-6FD0-4B4D-A39B-E6CEF52261E8}|Chart\\Chart.csproj|d:\\bai tap c#\\financial_web\\chart\\chart\\views\\courses\\course.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3DBE1E0D-6FD0-4B4D-A39B-E6CEF52261E8}|Chart\\Chart.csproj|solutionrelative:chart\\views\\courses\\course.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DBE1E0D-6FD0-4B4D-A39B-E6CEF52261E8}|Chart\\Chart.csproj|d:\\bai tap c#\\financial_web\\chart\\chart\\views\\courses\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3DBE1E0D-6FD0-4B4D-A39B-E6CEF52261E8}|Chart\\Chart.csproj|solutionrelative:chart\\views\\courses\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DBE1E0D-6FD0-4B4D-A39B-E6CEF52261E8}|Chart\\Chart.csproj|d:\\bai tap c#\\financial_web\\chart\\chart\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3DBE1E0D-6FD0-4B4D-A39B-E6CEF52261E8}|Chart\\Chart.csproj|solutionrelative:chart\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DBE1E0D-6FD0-4B4D-A39B-E6CEF52261E8}|Chart\\Chart.csproj|d:\\bai tap c#\\financial_web\\chart\\chart\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3DBE1E0D-6FD0-4B4D-A39B-E6CEF52261E8}|Chart\\Chart.csproj|solutionrelative:chart\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DBE1E0D-6FD0-4B4D-A39B-E6CEF52261E8}|Chart\\Chart.csproj|d:\\bai tap c#\\financial_web\\chart\\chart\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3DBE1E0D-6FD0-4B4D-A39B-E6CEF52261E8}|Chart\\Chart.csproj|solutionrelative:chart\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DBE1E0D-6FD0-4B4D-A39B-E6CEF52261E8}|Chart\\Chart.csproj|d:\\bai tap c#\\financial_web\\chart\\chart\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DBE1E0D-6FD0-4B4D-A39B-E6CEF52261E8}|Chart\\Chart.csproj|solutionrelative:chart\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DBE1E0D-6FD0-4B4D-A39B-E6CEF52261E8}|Chart\\Chart.csproj|d:\\bai tap c#\\financial_web\\chart\\chart\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3DBE1E0D-6FD0-4B4D-A39B-E6CEF52261E8}|Chart\\Chart.csproj|solutionrelative:chart\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DBE1E0D-6FD0-4B4D-A39B-E6CEF52261E8}|Chart\\Chart.csproj|d:\\bai tap c#\\financial_web\\chart\\chart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DBE1E0D-6FD0-4B4D-A39B-E6CEF52261E8}|Chart\\Chart.csproj|solutionrelative:chart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DBE1E0D-6FD0-4B4D-A39B-E6CEF52261E8}|Chart\\Chart.csproj|d:\\bai tap c#\\financial_web\\chart\\chart\\views\\shared\\_layoutsing.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3DBE1E0D-6FD0-4B4D-A39B-E6CEF52261E8}|Chart\\Chart.csproj|solutionrelative:chart\\views\\shared\\_layoutsing.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3DBE1E0D-6FD0-4B4D-A39B-E6CEF52261E8}|Chart\\Chart.csproj|d:\\bai tap c#\\financial_web\\chart\\chart\\views\\login\\singin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -23,28 +63,8 @@
       "RelativeMoniker": "D:0:0:{3DBE1E0D-6FD0-4B4D-A39B-E6CEF52261E8}|Chart\\Chart.csproj|solutionrelative:chart\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DBE1E0D-6FD0-4B4D-A39B-E6CEF52261E8}|Chart\\Chart.csproj|d:\\bai tap c#\\financial_web\\chart\\chart\\views\\courses\\course.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3DBE1E0D-6FD0-4B4D-A39B-E6CEF52261E8}|Chart\\Chart.csproj|solutionrelative:chart\\views\\courses\\course.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DBE1E0D-6FD0-4B4D-A39B-E6CEF52261E8}|Chart\\Chart.csproj|d:\\bai tap c#\\financial_web\\chart\\chart\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3DBE1E0D-6FD0-4B4D-A39B-E6CEF52261E8}|Chart\\Chart.csproj|solutionrelative:chart\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DBE1E0D-6FD0-4B4D-A39B-E6CEF52261E8}|Chart\\Chart.csproj|d:\\bai tap c#\\financial_web\\chart\\chart\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DBE1E0D-6FD0-4B4D-A39B-E6CEF52261E8}|Chart\\Chart.csproj|solutionrelative:chart\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DBE1E0D-6FD0-4B4D-A39B-E6CEF52261E8}|Chart\\Chart.csproj|d:\\bai tap c#\\financial_web\\chart\\chart\\views\\courses\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3DBE1E0D-6FD0-4B4D-A39B-E6CEF52261E8}|Chart\\Chart.csproj|solutionrelative:chart\\views\\courses\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3DBE1E0D-6FD0-4B4D-A39B-E6CEF52261E8}|Chart\\Chart.csproj|d:\\bai tap c#\\financial_web\\chart\\chart\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3DBE1E0D-6FD0-4B4D-A39B-E6CEF52261E8}|Chart\\Chart.csproj|solutionrelative:chart\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DBE1E0D-6FD0-4B4D-A39B-E6CEF52261E8}|Chart\\Chart.csproj|d:\\bai tap c#\\financial_web\\chart\\chart\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3DBE1E0D-6FD0-4B4D-A39B-E6CEF52261E8}|Chart\\Chart.csproj|solutionrelative:chart\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3DBE1E0D-6FD0-4B4D-A39B-E6CEF52261E8}|Chart\\Chart.csproj|d:\\bai tap c#\\financial_web\\chart\\chart\\views\\register\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -67,10 +87,6 @@
       "RelativeMoniker": "D:0:0:{3DBE1E0D-6FD0-4B4D-A39B-E6CEF52261E8}|Chart\\Chart.csproj|solutionrelative:chart\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DBE1E0D-6FD0-4B4D-A39B-E6CEF52261E8}|Chart\\Chart.csproj|d:\\bai tap c#\\financial_web\\chart\\chart\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3DBE1E0D-6FD0-4B4D-A39B-E6CEF52261E8}|Chart\\Chart.csproj|solutionrelative:chart\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3DBE1E0D-6FD0-4B4D-A39B-E6CEF52261E8}|Chart\\Chart.csproj|d:\\bai tap c#\\financial_web\\chart\\chart\\wwwroot\\css\\chart.css||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3DBE1E0D-6FD0-4B4D-A39B-E6CEF52261E8}|Chart\\Chart.csproj|solutionrelative:chart\\wwwroot\\css\\chart.css||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -89,10 +105,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3DBE1E0D-6FD0-4B4D-A39B-E6CEF52261E8}|Chart\\Chart.csproj|d:\\bai tap c#\\financial_web\\chart\\chart\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{3DBE1E0D-6FD0-4B4D-A39B-E6CEF52261E8}|Chart\\Chart.csproj|solutionrelative:chart\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DBE1E0D-6FD0-4B4D-A39B-E6CEF52261E8}|Chart\\Chart.csproj|d:\\bai tap c#\\financial_web\\chart\\chart\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{3DBE1E0D-6FD0-4B4D-A39B-E6CEF52261E8}|Chart\\Chart.csproj|solutionrelative:chart\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -106,20 +118,20 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\Bai Tap C#\\Financial_Web\\Chart\\Chart\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Chart\\Controllers\\HomeController.cs",
               "ToolTip": "D:\\Bai Tap C#\\Financial_Web\\Chart\\Chart\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Chart\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAA3wAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-02T05:19:27.72Z",
               "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 14,
               "Title": "NewsController.cs",
               "DocumentMoniker": "D:\\Bai Tap C#\\Financial_Web\\Chart\\Chart\\Controllers\\NewsController.cs",
               "RelativeDocumentMoniker": "Chart\\Controllers\\NewsController.cs",
@@ -133,42 +145,120 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CoursesController.cs",
-              "DocumentMoniker": "D:\\Bai Tap C#\\Financial_Web\\Chart\\Chart\\Controllers\\CoursesController.cs",
-              "RelativeDocumentMoniker": "Chart\\Controllers\\CoursesController.cs",
-              "ToolTip": "D:\\Bai Tap C#\\Financial_Web\\Chart\\Chart\\Controllers\\CoursesController.cs",
-              "RelativeToolTip": "Chart\\Controllers\\CoursesController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBIAAABUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T12:24:24.7Z"
+              "Title": "AddCourse.cshtml",
+              "DocumentMoniker": "D:\\Bai Tap C#\\Financial_Web\\Chart\\Chart\\Views\\Courses\\AddCourse.cshtml",
+              "RelativeDocumentMoniker": "Chart\\Views\\Courses\\AddCourse.cshtml",
+              "ToolTip": "D:\\Bai Tap C#\\Financial_Web\\Chart\\Chart\\Views\\Courses\\AddCourse.cshtml",
+              "RelativeToolTip": "Chart\\Views\\Courses\\AddCourse.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T05:34:28.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Video.cshtml",
+              "DocumentMoniker": "D:\\Bai Tap C#\\Financial_Web\\Chart\\Chart\\Views\\Courses\\Video.cshtml",
+              "RelativeDocumentMoniker": "Chart\\Views\\Courses\\Video.cshtml",
+              "ToolTip": "D:\\Bai Tap C#\\Financial_Web\\Chart\\Chart\\Views\\Courses\\Video.cshtml",
+              "RelativeToolTip": "Chart\\Views\\Courses\\Video.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T08:05:31.981Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Course.cshtml",
-              "DocumentMoniker": "D:\\Bai Tap C#\\Financial_Web\\Chart\\Chart\\Views\\Courses\\Course.cshtml",
-              "RelativeDocumentMoniker": "Chart\\Views\\Courses\\Course.cshtml",
-              "ToolTip": "D:\\Bai Tap C#\\Financial_Web\\Chart\\Chart\\Views\\Courses\\Course.cshtml",
-              "RelativeToolTip": "Chart\\Views\\Courses\\Course.cshtml",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAwCAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-02T10:09:19.057Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "Details.cshtml",
               "DocumentMoniker": "D:\\Bai Tap C#\\Financial_Web\\Chart\\Chart\\Views\\Courses\\Details.cshtml",
               "RelativeDocumentMoniker": "Chart\\Views\\Courses\\Details.cshtml",
               "ToolTip": "D:\\Bai Tap C#\\Financial_Web\\Chart\\Chart\\Views\\Courses\\Details.cshtml",
               "RelativeToolTip": "Chart\\Views\\Courses\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAswDAAAACZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-02T07:47:38.16Z"
+              "WhenOpened": "2024-10-02T07:47:38.16Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Bai Tap C#\\Financial_Web\\Chart\\Chart\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Chart\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Bai Tap C#\\Financial_Web\\Chart\\Chart\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Chart\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-21T04:51:30.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\Bai Tap C#\\Financial_Web\\Chart\\Chart\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Chart\\Models\\Course.cs",
+              "ToolTip": "D:\\Bai Tap C#\\Financial_Web\\Chart\\Chart\\Models\\Course.cs",
+              "RelativeToolTip": "Chart\\Models\\Course.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T10:12:11.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "D:\\Bai Tap C#\\Financial_Web\\Chart\\Chart\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "Chart\\Controllers\\CoursesController.cs",
+              "ToolTip": "D:\\Bai Tap C#\\Financial_Web\\Chart\\Chart\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "Chart\\Controllers\\CoursesController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAiwEkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T12:24:24.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Course.cshtml",
+              "DocumentMoniker": "D:\\Bai Tap C#\\Financial_Web\\Chart\\Chart\\Views\\Courses\\Course.cshtml",
+              "RelativeDocumentMoniker": "Chart\\Views\\Courses\\Course.cshtml",
+              "ToolTip": "D:\\Bai Tap C#\\Financial_Web\\Chart\\Chart\\Views\\Courses\\Course.cshtml",
+              "RelativeToolTip": "Chart\\Views\\Courses\\Course.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T10:09:19.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Bai Tap C#\\Financial_Web\\Chart\\Chart\\Program.cs",
+              "RelativeDocumentMoniker": "Chart\\Program.cs",
+              "ToolTip": "D:\\Bai Tap C#\\Financial_Web\\Chart\\Chart\\Program.cs",
+              "RelativeToolTip": "Chart\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T06:33:08.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_LayoutSing.cshtml",
+              "DocumentMoniker": "D:\\Bai Tap C#\\Financial_Web\\Chart\\Chart\\Views\\Shared\\_LayoutSing.cshtml",
+              "RelativeDocumentMoniker": "Chart\\Views\\Shared\\_LayoutSing.cshtml",
+              "ToolTip": "D:\\Bai Tap C#\\Financial_Web\\Chart\\Chart\\Views\\Shared\\_LayoutSing.cshtml",
+              "RelativeToolTip": "Chart\\Views\\Shared\\_LayoutSing.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAC4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T18:39:46.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "D:\\Bai Tap C#\\Financial_Web\\Chart\\Chart\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Chart\\Models\\ErrorViewModel.cs",
@@ -180,20 +270,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_LayoutSing.cshtml",
-              "DocumentMoniker": "D:\\Bai Tap C#\\Financial_Web\\Chart\\Chart\\Views\\Shared\\_LayoutSing.cshtml",
-              "RelativeDocumentMoniker": "Chart\\Views\\Shared\\_LayoutSing.cshtml",
-              "ToolTip": "D:\\Bai Tap C#\\Financial_Web\\Chart\\Chart\\Views\\Shared\\_LayoutSing.cshtml",
-              "RelativeToolTip": "Chart\\Views\\Shared\\_LayoutSing.cshtml",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAAC4AAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-01T18:39:46.428Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 13,
               "Title": "Singin.cshtml",
               "DocumentMoniker": "D:\\Bai Tap C#\\Financial_Web\\Chart\\Chart\\Views\\Login\\Singin.cshtml",
               "RelativeDocumentMoniker": "Chart\\Views\\Login\\Singin.cshtml",
@@ -205,31 +282,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Course.cs",
-              "DocumentMoniker": "D:\\Bai Tap C#\\Financial_Web\\Chart\\Chart\\Models\\Course.cs",
-              "RelativeDocumentMoniker": "Chart\\Models\\Course.cs",
-              "ToolTip": "D:\\Bai Tap C#\\Financial_Web\\Chart\\Chart\\Models\\Course.cs",
-              "RelativeToolTip": "Chart\\Models\\Course.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAYwDUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T10:12:11.07Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Bai Tap C#\\Financial_Web\\Chart\\Chart\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Chart\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\Bai Tap C#\\Financial_Web\\Chart\\Chart\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Chart\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-21T04:51:30.109Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "D:\\Bai Tap C#\\Financial_Web\\Chart\\Chart\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Chart\\Views\\Home\\Privacy.cshtml",
@@ -241,19 +294,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 6,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\Bai Tap C#\\Financial_Web\\Chart\\Chart\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Chart\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\Bai Tap C#\\Financial_Web\\Chart\\Chart\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Chart\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACMAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACoAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-21T04:51:15.262Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "Register.cshtml",
               "DocumentMoniker": "D:\\Bai Tap C#\\Financial_Web\\Chart\\Chart\\Views\\Register\\Register.cshtml",
               "RelativeDocumentMoniker": "Chart\\Views\\Register\\Register.cshtml",
@@ -265,7 +318,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "LoginController.cs",
               "DocumentMoniker": "D:\\Bai Tap C#\\Financial_Web\\Chart\\Chart\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "Chart\\Controllers\\LoginController.cs",
@@ -277,7 +330,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "D:\\Bai Tap C#\\Financial_Web\\Chart\\Chart\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Chart\\Views\\_ViewStart.cshtml",
@@ -289,7 +342,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "RegisterController.cs",
               "DocumentMoniker": "D:\\Bai Tap C#\\Financial_Web\\Chart\\Chart\\Controllers\\RegisterController.cs",
               "RelativeDocumentMoniker": "Chart\\Controllers\\RegisterController.cs",
@@ -301,7 +354,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 8,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "D:\\Bai Tap C#\\Financial_Web\\Chart\\Chart\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Chart\\Views\\_ViewImports.cshtml",
@@ -313,7 +366,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 7,
               "Title": "site.css",
               "DocumentMoniker": "D:\\Bai Tap C#\\Financial_Web\\Chart\\Chart\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "Chart\\wwwroot\\css\\site.css",
@@ -325,7 +378,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "_Layout.cshtml.css",
               "DocumentMoniker": "D:\\Bai Tap C#\\Financial_Web\\Chart\\Chart\\Views\\Shared\\_Layout.cshtml.css",
               "RelativeDocumentMoniker": "Chart\\Views\\Shared\\_Layout.cshtml.css",
@@ -337,7 +390,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "chart.css",
               "DocumentMoniker": "D:\\Bai Tap C#\\Financial_Web\\Chart\\Chart\\wwwroot\\css\\chart.css",
               "RelativeDocumentMoniker": "Chart\\wwwroot\\css\\chart.css",
@@ -349,7 +402,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Bai Tap C#\\Financial_Web\\Chart\\Chart\\appsettings.json",
               "RelativeDocumentMoniker": "Chart\\appsettings.json",
@@ -361,7 +414,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "D:\\Bai Tap C#\\Financial_Web\\Chart\\Chart\\appsettings.Development.json",
               "RelativeDocumentMoniker": "Chart\\appsettings.Development.json",
@@ -373,7 +426,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\Bai Tap C#\\Financial_Web\\Chart\\Chart\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Chart\\Properties\\launchSettings.json",

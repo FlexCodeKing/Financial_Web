@@ -9,8 +9,32 @@
       "PackagePath": "staticwebassets\\Images\\Singin.jfif"
     },
     {
+      "Id": "D:\\Bai Tap C#\\Financial_Web\\Chart\\Chart\\wwwroot\\Video\\dan.mp4",
+      "PackagePath": "staticwebassets\\Video\\dan.mp4"
+    },
+    {
+      "Id": "D:\\Bai Tap C#\\Financial_Web\\Chart\\Chart\\wwwroot\\Video\\game.mp4",
+      "PackagePath": "staticwebassets\\Video\\game.mp4"
+    },
+    {
+      "Id": "D:\\Bai Tap C#\\Financial_Web\\Chart\\Chart\\wwwroot\\Video\\long.mp4",
+      "PackagePath": "staticwebassets\\Video\\long.mp4"
+    },
+    {
+      "Id": "D:\\Bai Tap C#\\Financial_Web\\Chart\\Chart\\wwwroot\\Video\\nhay.mp4",
+      "PackagePath": "staticwebassets\\Video\\nhay.mp4"
+    },
+    {
+      "Id": "D:\\Bai Tap C#\\Financial_Web\\Chart\\Chart\\wwwroot\\Video\\tom.mp4",
+      "PackagePath": "staticwebassets\\Video\\tom.mp4"
+    },
+    {
       "Id": "D:\\Bai Tap C#\\Financial_Web\\Chart\\Chart\\wwwroot\\Video\\video1.mp4",
       "PackagePath": "staticwebassets\\Video\\video1.mp4"
+    },
+    {
+      "Id": "D:\\Bai Tap C#\\Financial_Web\\Chart\\Chart\\wwwroot\\Video\\war.mp4",
+      "PackagePath": "staticwebassets\\Video\\war.mp4"
     },
     {
       "Id": "D:\\Bai Tap C#\\Financial_Web\\Chart\\Chart\\wwwroot\\css\\chart.css",

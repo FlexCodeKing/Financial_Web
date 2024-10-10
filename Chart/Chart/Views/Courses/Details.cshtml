@@ -4,21 +4,55 @@
     ViewData["Title"] = Model.title;
 }
 
-<div class="container">
-    <h1>@Model.title</h1>
-    <img src="@Url.Content(Model.image)" class="img-fluid" alt="@Model.title" />
+<div class="container mt-5">
+    <style>
+        .video-thumbnail {
+            width: 80px; /* Kích thước chiều rộng hình ảnh */
+            height: auto; /* Giữ tỉ lệ khung hình */
+            margin-right: 15px; /* Khoảng cách giữa hình ảnh và tiêu đề video */
+        }
+
+        .video-item {
+            display: flex;
+            align-items: center;
+            margin-bottom: 15px; /* Khoảng cách giữa các video */
+        }
+
+        .video-title {
+            flex-grow: 1;
+            margin-bottom: 0; /* Không có khoảng cách dưới tiêu đề */
+            color: #007bff; /* Màu xanh cho tiêu đề để hiển thị giống liên kết */
+            text-decoration: none; /* Xóa gạch chân mặc định */
+        }
+
+            .video-title:hover {
+                text-decoration: underline; /* Hiển thị gạch chân khi hover */
+            }
+    </style>
+
+    <h1 class="mb-4">@Model.title</h1>
+    <img src="@Url.Content(Model.image)" class="img-fluid mb-4" alt="@Model.title" />
     <p>@Model.description</p>
 
-    <h2>Video Khóa Học</h2>
-    @foreach (var video in Model.Videos)
+    <h2 class="mt-5">Danh sách video</h2>
+
+    @if (Model.Videos != null && Model.Videos.Any())
     {
-        <div class="mb-3">
-            <h5>@video.Title</h5>
-            <video controls class="w-100">
-                <source src="@Url.Content(video.VideoUrl)" type="video/mp4">
-                Trình duyệt của bạn không hỗ trợ video.
-            </video>
+        <div class="list-group">
+            @foreach (var video in Model.Videos)
+            {
+                <div class="video-item">
+                    <!-- Hình ảnh video bên trái -->
+                    <img src="@Url.Content(Model.image)" alt="@video.Title" class="video-thumbnail" />
+
+                    <!-- Tiêu đề video bên phải, chuyển hướng đến trang xem video -->
+                    <a href="@Url.Action("Video", "Courses", new { idCourse = Model.idCourse, idVideo = video.Id })" class="video-title">@video.Title</a>
+                </div>
+            }
         </div>
-       
+    }
+    else
+    {
+        <p>Không có video nào cho khóa học này.</p>
     }
 </div>
