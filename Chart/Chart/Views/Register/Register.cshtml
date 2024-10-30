@@ -2,6 +2,11 @@
     Layout = "~/Views/Shared/_LayoutSing.cshtml"; // Đường dẫn đến trang layout chia sẻ
     ViewBag.Title = "Register";
 }
+<style>
+    input{
+        width: 402px;
+    }
+</style>
 
 <h3 class="text-center mb-4">Register</h3>
 <form method="post" action="/Account/Register">
@@ -23,7 +28,7 @@
     </div>
     <button type="submit" class="btn btn-primary btn-block">Register</button>
     <div class="text-center mt-3">
-        <a href="/Account/Login" class="auth-link">Already have an account? Login</a>
+        <a asp-controller="Login" asp-action="Singin" class="auth-link">Already have an account? Login</a>
     </div>
 </form>
 

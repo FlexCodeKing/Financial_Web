@@ -1,1 +1,90 @@
-﻿@model Chart.Models.Course;
+﻿@model Chart.Models.Course
+
+@{
+    ViewBag.Title = "Add Course";
+}
+
+<div class="container">
+    <h2 class="my-4">Thêm khóa học mới</h2>
+
+    <!-- Form bắt đầu -->
+    <form asp-action="AddCourse" method="post">
+        <div class="form-group">
+            <label for="title">Tên khóa học</label>
+            <input type="text" class="form-control" id="title" name="title" value="@Model.title" placeholder="Nhập tên khóa học" required />
+        </div>
+
+        <div class="form-group">
+            <label for="description">Mô tả khóa học</label>
+            <textarea class="form-control" id="description" name="description" placeholder="Nhập mô tả khóa học" rows="4" required>@Model.description</textarea>
+        </div>
+
+        <div class="form-group">
+            <label for="image">Đường dẫn ảnh khóa học</label>
+            <input type="" class="form-control" id="image" name="image" value="@Model.image" placeholder="Nhập đường dẫn ảnh khóa học" required />
+        </div>
+
+        <h4 class="my-4">Danh sách video</h4>
+
+        <!-- Lặp qua các video -->
+        <div id="video-list">
+            @for (int i = 0; i < Model.Videos.Count; i++)
+            {
+                <div class="video-item mb-4">
+                    <div class="form-group">
+                        <label for="Videos[@i].Title">Tên Video</label>
+                        <input type="text" class="form-control" id="Videos[@i].Title" name="Videos[@i].Title" value="@Model.Videos[i].Title" placeholder="Nhập tên video" required />
+                    </div>
+                    <div class="form-group">
+                        <label for="Videos[@i].VideoUrl">Đường dẫn Video</label>
+                        <input type="file" class="form-control" id="Videos[@i].VideoUrl" name="Videos[@i].VideoUrl" value="@Model.Videos[i].VideoUrl" placeholder="Nhập đường dẫn video" required />
+                    </div>
+                    <button type="button" class="btn btn-danger remove-video">Xóa Video</button>
+                    <hr />
+                </div>
+            }
+        </div>
+
+        <!-- Nút thêm video mới -->
+        <button type="button" id="add-video" class="btn btn-secondary">Thêm Video</button>
+
+        <!-- Nút lưu -->
+        <div class="form-group mt-4">
+            <button type="submit" class="btn btn-primary">Lưu khóa học</button>
+        </div>
+    </form>
+</div>
+
+@section Scripts {
+    <script>
+        // Hàm thêm video mới
+        document.getElementById('add-video').addEventListener('click', function () {
+            var videoList = document.getElementById('video-list');
+            var newIndex = document.querySelectorAll('.video-item').length;
+
+            var newVideoItem = `
+                        <div class="video-item mb-4">
+                            <div class="form-group">
+                                <label for="Videos[${newIndex}].Title">Tên Video</label>
+                                <input type="text" class="form-control" id="Videos[${newIndex}].Title" name="Videos[${newIndex}].Title" placeholder="Nhập tên video" required />
+                            </div>
+                            <div class="form-group">
+                                <label for="Videos[${newIndex}].VideoUrl">Đường dẫn Video</label>
+                                <input type="text" class="form-control" id="Videos[${newIndex}].VideoUrl" name="Videos[${newIndex}].VideoUrl" placeholder="Nhập đường dẫn video" required />
+                            </div>
+                            <button type="button" class="btn btn-danger remove-video">Xóa Video</button>
+                            <hr />
+                        </div>
+                    `;
+
+            videoList.insertAdjacentHTML('beforeend', newVideoItem);
+        });
+
+        // Hàm xóa video
+        document.addEventListener('click', function (e) {
+            if (e.target.classList.contains('remove-video')) {
+                e.target.closest('.video-item').remove();
+            }
+        });
+    </script>
+}

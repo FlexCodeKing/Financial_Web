@@ -3,14 +3,10 @@
     "",
     "\\Chart",
     "\\Chart\\Chart",
-    "\\Chart\\Chart\\bin",
-    "\\Chart\\Chart\\bin\\Debug",
-    "\\Chart\\Chart\\bin\\Release\\net8.0",
-    "\\Chart\\Chart\\obj\\Debug",
-    "\\Chart\\Chart\\wwwroot",
-    "\\Chart\\Chart\\wwwroot\\js",
-    "\\Chart\\Chart\\wwwroot\\lib"
+    "\\Chart\\Chart\\Models",
+    "\\Chart\\Chart\\Views",
+    "\\Chart\\Chart\\wwwroot"
   ],
-  "SelectedNode": "\\Chart\\Chart.sln",
-  "PreviewInSolutionExplorer": false
+  "SelectedNode": "\\Chart\\Chart\\Views\\_ViewStart.cshtml",
+  "PreviewInSolutionExplorer": true
 }
